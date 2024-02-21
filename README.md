@@ -35,3 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huypvn98&show_icons=true&locale=en&layout=compact" alt="huypvn98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huypvn98&show_icons=true&locale=en" alt="huypvn98" /></p>
+<a href="https://app.daily.dev/kenpham"><img src="https://api.daily.dev/devcards/v2/VJKdzLgTTaOlnyQTt2RC3.png?r=qwo&type=default" width="356" alt="Pham Vu Ngoc Huy's Dev Card"/></a>
