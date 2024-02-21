@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huypvn98" alt="huypvn98" /></a> </p>
 
+<a href="https://app.daily.dev/kenpham"><img align="right" src="https://api.daily.dev/devcards/v2/VJKdzLgTTaOlnyQTt2RC3.png?r=qwo&type=default" width="356" alt="Pham Vu Ngoc Huy's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/@huypvn1998" target="blank"><img src="https://img.shields.io/twitter/follow/@huypvn1998?logo=twitter&style=for-the-badge" alt="@huypvn1998" /></a> </p>
 
-- 🔭 I’m currently working on [as a Backend Developer at](https://www.siambrothersvn.com/)
+    
+- 🔭 I’m currently working [as a Backend Developer](https://www.siambrothersvn.com/)
 
 - 🌱 I’m currently learning **devops and distributed database**
 
@@ -17,8 +20,8 @@
 
 - 📫 How to reach me **huypvn1998@gmail.com**
 
-- ⚡ Fun fact **Love making money**
-
+- ⚡ Fun fact **Love making money** 
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/huypvn98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="huypvn98" height="30" width="40" /></a>
@@ -35,4 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huypvn98&show_icons=true&locale=en&layout=compact" alt="huypvn98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huypvn98&show_icons=true&locale=en" alt="huypvn98" /></p>
-<a href="https://app.daily.dev/kenpham"><img src="https://api.daily.dev/devcards/v2/VJKdzLgTTaOlnyQTt2RC3.png?r=qwo&type=default" width="356" alt="Pham Vu Ngoc Huy's Dev Card"/></a>
